@@ -1,0 +1,3 @@
+;P=260,581,345
+Canada;C=North_america
+Egypt A=1,000,000;P=93,384,001
